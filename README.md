@@ -1,6 +1,6 @@
 # Purpose of the Repository
 
-This repository contains the results of the Data Science Nanodegree Sparkify Capstone Project. Its’s purpose is to give the reviewers of the access to the code.
+This repository contains the results of the Data Science Nanodegree Sparkify Capstone Project. Its’s purpose is to give the reviewers of the access to the code. More information can be found on a [Medium Blog Post](https://medium.com/@christophberns/apache-spark-for-big-data-analytics-53b99185bf51).
 
 # Summary of the Sparkify Project
 
