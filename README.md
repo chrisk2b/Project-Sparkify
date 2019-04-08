@@ -60,8 +60,6 @@ Improvements to the above results could be possible by applying e.g. the followi
  - Use Grid Search for hyperparameter tuning
  - Try to find an additional data source which could be helpful for the considered task
 
-# Research on Word Embeddings
 
-## Purpose of the Repositor
 
 
